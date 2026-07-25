@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | React • Java • Tailwind CSS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Java+Enthusiast;Building+Projects+Every+Day;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Building+Projects+Every+Day;Always+Learning+New+Things+🚀" />
 
 <p>
 Passionate about building clean, responsive, and user-friendly web applications.<br>
