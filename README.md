@@ -100,18 +100,6 @@ I enjoy turning ideas into real-world projects while continuously learning moder
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arulkumaran37&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulkumaran37&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -127,16 +115,6 @@ I enjoy turning ideas into real-world projects while continuously learning moder
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arulkumaran37&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arulkumaran37&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
