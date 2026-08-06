@@ -30,12 +30,12 @@ I enjoy turning ideas into real-world projects while continuously learning moder
 
 # 🚀 About Me
 
-- 💻 Full Stack Developer
-- ⚛️ Building modern web applications using **React & Tailwind CSS**
-- ☕ Backend development with **Java, JDBC, JSP & Oracle Database**
-- 🌱 Currently learning **Spring Boot** and modern backend development
-- 🧩 Love solving real-world problems through projects
-- 🎯 Goal: Become a skilled Full Stack Software Engineer
+-  Full Stack Developer
+-  Building modern web applications using **React & Tailwind CSS**
+-  Backend development with **Java, JDBC, JSP & Oracle Database**
+-  Currently learning **Spring Boot** and modern backend development
+-  Love solving real-world problems through projects
+-  Goal: Become a skilled Full Stack Software Engineer
 
 ---
 
